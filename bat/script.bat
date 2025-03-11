@@ -1,0 +1,1 @@
+echo primeros¡ > C:\Users\SENA\Desktop\Adso\ejercicios\castellano\primero.txt
